@@ -1,0 +1,3 @@
+echo $1 >inp
+echo -n $1 >>out
+./minmax.x <inp >>out
