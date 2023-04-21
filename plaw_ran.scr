@@ -1,0 +1,3 @@
+echo $1 >inp
+echo -n $1 >>out
+./plaw_ran.x <inp >>out
