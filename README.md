@@ -1,4 +1,4 @@
-#Power_law
+# Power_law
 
 f77 plaw_ran.f ran1.f -o plaw.x
 plaw_ran.run generates data according to a power law distrinution and then calculates x^max and the corresponding SD 
